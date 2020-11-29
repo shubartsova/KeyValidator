@@ -26,4 +26,4 @@ java KeyValidator 5-78e0-44a5-8720-556f0c7da17a e66075b6-ddad-445e-baf6-161b3289
         * Windows 7; 64
         * Java 11
 ## 4. Скриншот
-![C:\Users\ewfswf\Downloads\ДЗ Нетология\1.1. Введение в Java JDK, JRE, JVM, IntelliJ IDEA](Ключи валидные и невалидные.png)
+![](https://github.com/shubartsova/KeyValidator/blob/master/%D0%9A%D0%BB%D1%8E%D1%87%D0%B8%20%D0%B2%D0%B0%D0%BB%D0%B8%D0%B4%D0%BD%D1%8B%D0%B5%20%D0%B8%20%D0%BD%D0%B5%D0%B2%D0%B0%D0%BB%D0%B8%D0%B4%D0%BD%D1%8B%D0%B5.png?raw=true.png)
